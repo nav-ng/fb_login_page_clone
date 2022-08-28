@@ -57,3 +57,133 @@ body{
 .button:hover{
     background-color: #3e60a4;
 }
+.main-body{
+    width: 100%;
+    height: 729px;
+    background:#E7EBF2;
+}
+.left-section{
+    width: 57%;
+    height: 647px;
+    float: left;
+}
+.right-section{
+    width: 43%;
+    height: 647px;
+    float: left;
+}
+.sentence-1{
+    height: 36px;
+    font-size: 21px;
+    font-weight: 800;
+    color: #203751;
+    padding-left: 155px;
+    padding-top: 22px;
+}
+.image{
+    width: 658px;
+    height: 230px;
+    padding-left: 159px;
+    padding-top: 22px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 43px;
+    color: #203751;
+    margin-block-end: -0.4em;
+}
+.sentence-2{
+    font-size: 22px;
+    color:#203751;
+    font-weight: 600;
+}
+.name1{
+    font-size: 15px;
+    border-radius: 5px;
+    width: 222px;
+    height: 40px;
+    color: gray;
+    font-size: 20px;
+    border-color:1px white;
+    padding-left: 10px;
+    border-width: 1px;
+}
+.name2{
+    font-size: 15px;
+    border-radius: 5px;
+    width: 222px;
+    height: 40px;
+    color: gray;
+    font-size: 20px;
+    border-color:1px white;
+    padding-left: 10px;
+    border-width: 1px;
+    margin-left: 9px;
+}
+.info{
+    width: 472px;
+    height: 40px;
+    color: gray;
+    font-size: 20px;
+    border-color: 1px white;
+    padding-left: 10px;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-top: 12px;
+}
+.sentence-3{
+    font-weight: bold;
+    color: gray;
+    font-size: 17px;
+}
+.day{
+    width: 59px;
+    height: 28px;
+    border-radius: 5px;
+
+}
+.mthyr{
+    width: 69px;
+    height: 28px;
+    border-radius: 5px;
+}
+.radio{
+    width: 24px;
+    height: 17px;
+    border-radius: 15px;
+    top: -26px;
+    left: -1px;
+    position: relative;
+}
+.sex{
+    top: -27px;
+    left: -7px;
+    position: relative;
+    font-weight: 500;
+    font-size: 21px;
+}
+.sentence-4{
+    font-size: 12px;
+    color: gray;
+    top: -22px;
+    position: relative;
+}
+.submit{
+    top: 24px;
+    position: relative;
+    width: 199px;
+    height: 36px;
+    border-radius: 5px;
+    border-color:green;
+    background: linear-gradient(#4b843a,#4b711a);
+    color: white;
+    font-weight: 600;
+    font-size: 21px;
+}
+.sentence-5{
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+    position: relative;
+    top: 32px;
+}
